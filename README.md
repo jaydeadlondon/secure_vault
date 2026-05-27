@@ -113,14 +113,6 @@ Swagger UI доступен по адресу: [http://localhost:8000/docs](http
 
 ---
 
-## 👨‍💻 Автор
-
-**jaydeadlondon**
-
-- GitHub: [@jaydeadlondon](https://github.com/jaydeadlondon)
-
----
-
 ## 📜 Лицензия
 
 MIT License
